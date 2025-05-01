@@ -1,4 +1,4 @@
-# Hello World
+# Jacob Ruiz
 
 This is my home page! My name is Jacob Ruiz and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science with minors in Math & Physics.
 
